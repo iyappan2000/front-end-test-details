@@ -1,0 +1,12 @@
+.activity-head {
+  float: right;
+  margin-top: -65px;
+  background-color: rgba(247, 248, 246, 0.986);
+}
+.activity p {
+  font-size: 23px;
+  font-weight: 400;
+}
+.activity-head Menu.Item {
+  font-size: large;
+}
